@@ -7,5 +7,10 @@ public class A
 		System.out.println("Enetr the name:-smita pawar");
 		
 	}
+	public void m1()
+	{
+		
+
+	System.out.println("complit class git class");}
 
 }
